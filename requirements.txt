@@ -1,3 +1,6 @@
+# /Applications/Yangjinho/Workspace/Django/venvs/venv/bin
+# source activate
+
 asgiref==3.5.1
 Django==3.2
 pytz==2022.1
